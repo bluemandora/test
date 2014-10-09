@@ -36,3 +36,4 @@ void modular_equation(ll a,ll b,ll c)//ax = c(mod b) ,ax+by=c
 			//printf("The %dth answer is : %ld\n",i+1,(x+i*(b/d))%b); //所有的正数值
     }
 }
+World1
