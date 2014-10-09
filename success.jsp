@@ -12,7 +12,7 @@
     		<td> <s:property value="#mylist.Publisher"/> </td>
     		<a href="Delete.action?id=<s:property value="#mylist.ISBN" />">删除</a> <br/>
 	</s:iterator>
-	<a href="login.jsp">返回初始页面</a>
+	<a href="login.jsp">返回搜索页面</a>
   </body>
 </html> 
 World1
